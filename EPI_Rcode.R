@@ -14,9 +14,6 @@ epi$EPI <- as.numeric(epi$EPI)
 epi$CDC.Safety.Advice.on.Tap.Water <- factor(epi$CDC.Safety.Advice.on.Tap.Water,
                                              levels = c("Not safe to drink","Safe to drink"),
                                              labels = c("Not safe to drink","Safe to drink"))
-str(epi)
-summary(epi)
-head(epi,5)
 
 epi_vis <- ggplot(epi, aes(country = alpha.3, fill = EPI)) +
   geom_wtg(border_size = 0.3, border_col = I("white")) + # Add tiles and white borders between them
