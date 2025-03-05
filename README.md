@@ -1,4 +1,4 @@
-# Global-water-title-grid
+# Global Water Title Grid
 This is a visualization, where I used the World Title Grid Map to improve the original design, which visualized global water safety using each country's Environmental Performance Index (EPI) score for water quality, making it more informative and effective.\
 The original data visualisation selected for the assignment can be found at:
 https://www.qssupplies.co.uk/worlds-most-dangerous-drinking-water.html
