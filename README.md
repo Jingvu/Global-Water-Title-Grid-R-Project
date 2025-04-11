@@ -4,6 +4,9 @@
 This is a visualization, where I used the World Title Grid Map to improve the original design, which visualized global water safety using each country's Environmental Performance Index (EPI) score for water quality. The original water quality visualization lacked clarity due to cluttered design, ineffective comparisons and misleading marker sizes. This project improves the World Title Grid Map for a clearer, more accurate and intuitive representation of global water safety.\
 The original data visualisation selected for the assignment can be found at:
 https://www.qssupplies.co.uk/worlds-most-dangerous-drinking-water.html
+The adjusted visualization:
+<img width="675" alt="Final Visualization" src="https://github.com/user-attachments/assets/087495e8-d6e3-418f-8217-5d784d4c595f" />
+
 
 ## Objective
 The goal of this visualization is to illustrate global water safety by using each country’s EPI score for water quality. It aims to clearly show the differences in water safety across nations, enabling viewers to quickly identify areas with high or low water quality and make comparisons between countries.
